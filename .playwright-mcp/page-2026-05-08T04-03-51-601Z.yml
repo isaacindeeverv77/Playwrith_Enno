@@ -1,0 +1,297 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e6]:
+      - generic [ref=e8]:
+        - link "Company Logo" [ref=e9] [cursor=pointer]:
+          - /url: ./
+        - navigation [ref=e11]:
+          - link "Home" [ref=e13] [cursor=pointer]:
+            - /url: ./
+            - paragraph [ref=e15]: Home
+          - link "Technology" [ref=e17] [cursor=pointer]:
+            - /url: ./brand-protection-technology
+            - paragraph [ref=e19]: Technology
+          - link "Solutions" [ref=e21] [cursor=pointer]:
+            - /url: ./solutions
+            - paragraph [ref=e23]: Solutions
+          - link "Resources" [ref=e25] [cursor=pointer]:
+            - /url: ./resources
+            - paragraph [ref=e27]: Resources
+          - link "About" [ref=e29] [cursor=pointer]:
+            - /url: ./about
+            - paragraph [ref=e31]: About
+          - button "Request Demo" [ref=e33] [cursor=pointer]:
+            - paragraph [ref=e36]: Request Demo
+    - main [ref=e38]:
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - heading "Brand Protection Technology" [level=2] [ref=e44]
+          - paragraph [ref=e45]: Ennoventure's patented brand protection technology embeds invisible cryptographic trust directly into products, enabling real-time authentication across 160+ countries.
+        - generic [ref=e47]:
+          - generic [ref=e49] [cursor=pointer]:
+            - img "Image Capture" [ref=e51]
+            - generic [ref=e53]:
+              - paragraph [ref=e54]: Step 1
+              - paragraph [ref=e55]: Image Capture
+          - generic [ref=e56] [cursor=pointer]:
+            - img "Content & Design Integrity Check" [ref=e58]
+            - generic [ref=e60]:
+              - paragraph [ref=e61]: Step 2
+              - paragraph [ref=e62]: Content & Design Integrity Check
+          - generic [ref=e63] [cursor=pointer]:
+            - img "Invisible Cryptographic Signature" [ref=e65]
+            - generic [ref=e67]:
+              - paragraph [ref=e68]: Step 3
+              - paragraph [ref=e69]: Invisible Cryptographic Signature
+          - generic [ref=e70] [cursor=pointer]:
+            - img "Authentication" [ref=e72]
+            - generic [ref=e74]:
+              - paragraph [ref=e75]: Step 4
+              - paragraph [ref=e76]: Authentication
+          - generic [ref=e77] [cursor=pointer]:
+            - img "Brand Intelligence & Reporting" [ref=e79]
+            - generic [ref=e81]:
+              - paragraph [ref=e82]: Step 5
+              - paragraph [ref=e83]: Brand Intelligence & Reporting
+        - generic [ref=e84]:
+          - img "Image Capture" [ref=e86]
+          - generic [ref=e87]:
+            - paragraph [ref=e88]: Step 1
+            - paragraph [ref=e89]: Capture product imagery with standard smartphone cameras.
+          - generic [ref=e90]:
+            - button "Go to step 1" [ref=e91] [cursor=pointer]
+            - button "Go to step 2" [ref=e92] [cursor=pointer]
+            - button "Go to step 3" [ref=e93] [cursor=pointer]
+            - button "Go to step 4" [ref=e94] [cursor=pointer]
+            - button "Go to step 5" [ref=e95] [cursor=pointer]
+      - generic [ref=e97]:
+        - heading "The Ennoventure Signature" [level=4] [ref=e100]
+        - generic [ref=e101]:
+          - paragraph [ref=e102]: Every product unit becomes a verifiable digital asset. The Ennoventure Signature is an invisible, cryptographic identity woven into packaging artwork undetectable, inseparable, uniquely tied to each item.
+          - paragraph [ref=e103]
+          - paragraph [ref=e104]: Anyone with a smartphone can authenticate in seconds. No apps. No specialized hardware. No added cost per scan. Item-level traceability across the entire supply chain, from production floor to consumer hands.
+          - paragraph [ref=e105]
+          - paragraph [ref=e106]: Brand protection that scales to billions of units worldwide without slowing down production or inflating packaging costs.
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - paragraph [ref=e110]: 100% Invisible
+            - paragraph [ref=e113]: No marks, inks, or visible changes
+          - generic [ref=e114]:
+            - paragraph [ref=e116]: 2.3 sec
+            - paragraph [ref=e119]: Smartphone verification speed
+          - generic [ref=e120]:
+            - paragraph [ref=e122]: 200+ Materials
+            - paragraph [ref=e125]: Substrate combinations supported
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - heading "Revolutionary Technology" [level=2] [ref=e131]
+          - paragraph [ref=e132]: "We've solved what others considered impossible: embedding cryptographic authentication signals directly into product artwork without compromising visual integrity or requiring manufacturing changes."
+          - paragraph [ref=e133]: Our technology achieves 100% design fidelity while maintaining 99% signature preservation even after degradation through printing, substrate variation, and environmental exposure.
+        - generic [ref=e135]:
+          - heading "Advanced Implementation" [level=2] [ref=e136]
+          - paragraph [ref=e137]: Traditional authentication methods like holograms, QR codes, and RFID tags are either visible and copyable or require expensive infrastructure changes.
+          - paragraph [ref=e138]: Ennoventure's invisible authentication operates at the pixel level, embedding cryptographic patterns within the natural textures and micro-frequencies of your existing artwork using advanced AI-driven steganography.
+          - paragraph [ref=e139]: These signals remain imperceptible to human vision while maintaining machine-readable strength across diverse lighting conditions, camera quality, and material substrates.
+      - generic [ref=e143]:
+        - heading "How It Works" [level=4] [ref=e146]
+        - heading "Truth patterns hide beyond detection inside natural textures and micro-frequencies. Your artwork remains identical. The authenticity signal stays strong." [level=5] [ref=e148]
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - generic [ref=e153] [cursor=pointer]:
+              - paragraph [ref=e155]: Diverse real-world training ensures seamless authentication throughout the entire product lifecycle.
+              - paragraph [ref=e157]: Print Survival
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e160]
+            - generic [ref=e172] [cursor=pointer]:
+              - paragraph [ref=e174]: Counterfeit-proof hidden signals engineered to endure real-world printing and digital scanning workflows.
+              - paragraph [ref=e176]: Real-World Ready
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e179]
+            - generic [ref=e191] [cursor=pointer]:
+              - paragraph [ref=e193]: AI models learn optical fingerprints for consistent authentication across 200+ material combinations.
+              - paragraph [ref=e195]: Universal Adaptation
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e198]
+            - generic [ref=e210] [cursor=pointer]:
+              - paragraph [ref=e212]: "Asset: invisible layer; Printing: no added equipment; Verification: any smartphone; scans improve learnings."
+              - paragraph [ref=e214]: Implementation
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e217]
+          - generic [ref=e228]:
+            - generic [ref=e230] [cursor=pointer]:
+              - paragraph [ref=e232]: Any smartphone becomes a verification device. Point, scan, verdict in 2.3 seconds. No app required.
+              - paragraph [ref=e234]: Universal Reading
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e237]
+            - generic [ref=e249] [cursor=pointer]:
+              - paragraph [ref=e251]: Proprietary tech ensures reliable authentication by recovering data from 30% signal remains.
+              - paragraph [ref=e253]: Error-Proof Scanning
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e256]
+            - generic [ref=e268] [cursor=pointer]:
+              - paragraph [ref=e270]: All our AI models are protected by patents and refined via production deployments.
+              - paragraph [ref=e272]: Patent Protected
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e275]
+            - link "Safeguarding Your Products, Reputation, and Revenue from Counterfeiting Brand Protection Solutions Three colorful building blocks stacked together, illustrated in a simple and playful design. Read More" [ref=e287] [cursor=pointer]:
+              - /url: ./brand-protection-solutions
+              - paragraph [ref=e289]: Safeguarding Your Products, Reputation, and Revenue from Counterfeiting
+              - paragraph [ref=e291]: Brand Protection Solutions
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e294]
+              - link "Read More" [ref=e306]:
+                - paragraph [ref=e309]: Read More
+          - generic [ref=e310]:
+            - generic [ref=e312] [cursor=pointer]:
+              - paragraph [ref=e314]: Invisible security signals that remain machine-readable across all lighting and scan conditions.
+              - paragraph [ref=e316]: The Science
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e319]
+            - generic [ref=e331] [cursor=pointer]:
+              - paragraph [ref=e333]: Multiple deep learning models analyze each scan; results vote together under strict thresholds for high accuracy.
+              - paragraph [ref=e335]: Ensemble AI Verification
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e338]
+            - generic [ref=e350] [cursor=pointer]:
+              - paragraph [ref=e352]: "Design Preservation: 100% fidelity;95% confidence from 30% residual; Speed: 2.3s avg; Training Scale: 20TB+."
+              - paragraph [ref=e354]: Performance
+              - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e357]
+      - generic [ref=e371]:
+        - generic [ref=e373]:
+          - heading "Answers to your top questions" [level=4] [ref=e375]:
+            - text: Answers to your
+            - text: top questions
+          - paragraph [ref=e377]:
+            - text: From setup steps to feature details,
+            - text: our FAQs cover everything you need to know.
+        - generic [ref=e381]:
+          - generic [ref=e384] [cursor=pointer]:
+            - paragraph [ref=e387]: Do we need new printing hardware or special inks?
+            - paragraph [ref=e394]: No. Ennoventure's technology works with standard printing equipment, conventional inks (CMYK, Pantone, specialty formulations), and existing substrates. Authentication signals embed within regular artwork using normal production processes-offset, flexographic, gravure, screen printing, or digital. No manufacturing process changes, specialized materials, or equipment modifications are required, enabling rapid deployment and cost-effective scaling.
+            - figure "Background Gradient" [ref=e405]
+          - generic [ref=e408] [cursor=pointer]:
+            - paragraph [ref=e411]: How does invisible authentication differ?
+            - paragraph [ref=e418]: It embeds undetectable security into artwork and verifies with any smartphone. No app, no friction so attackers have nothing to study.
+            - figure "Background Gradient" [ref=e429]
+          - generic [ref=e432] [cursor=pointer]:
+            - paragraph [ref=e435]: How fast is product verification?
+            - paragraph [ref=e442]: Average scan-to-verdict time is 2.3 seconds under normal field conditions using standard smartphones. This includes camera image capture, cloud upload, signal extraction, error correction, ensemble AI analysis, and results delivery. Verification speed enables real-time authentication for consumer purchases, supply chain inspection, customs clearance, and retail point-of-sale scenarios without workflow disruption.
+            - figure "Background Gradient" [ref=e453]
+          - generic [ref=e456] [cursor=pointer]:
+            - paragraph [ref=e459]: How does authentication integrate with existing brand protection programs?
+            - paragraph [ref=e466]: "Ennoventure's technology complements traditional brand protection by providing: (1) Covert authentication that counterfeiters cannot study or replicate, (2) Real-time verification accessible to all stakeholders without specialized training, (3) Market intelligence through authentication analytics revealing counterfeiting patterns and geographic hotspots, (4) Evidence generation for legal enforcement and customs seizures, and (5) Consumer engagement through brand-owned authentication experiences. Integration occurs through APIs, SDKs, or dashboard access depending on brand requirements."
+            - figure "Background Gradient" [ref=e477]
+          - generic [ref=e480] [cursor=pointer]:
+            - paragraph [ref=e483]: How does this compare to QR codes, RFID, or blockchain-based authentication?
+            - paragraph [ref=e490]: QR codes and visible tags are easily copied, removed, or counterfeited. Criminals simply reproduce the codes on fake products. RFID requires expensive tag procurement and reader infrastructure while remaining vulnerable to cloning. Blockchain provides transaction immutability but doesn't authenticate physical products themselves, counterfeiters can create fake products with blockchain-verified serial numbers. Invisible authentication operates at the artwork layer with cryptographic signals counterfeiters cannot detect or reproduce, requires only smartphones for verification, and embeds authentication inseparably within product packaging at minimal incremental cost.
+            - figure "Background Gradient" [ref=e501]
+    - contentinfo [ref=e505]:
+      - generic [ref=e506]:
+        - generic [ref=e507]:
+          - link [ref=e509] [cursor=pointer]:
+            - /url: ./
+          - generic [ref=e513]:
+            - heading "Navigation" [level=5] [ref=e515]
+            - generic [ref=e516]:
+              - paragraph [ref=e518]:
+                - link "Home" [ref=e519] [cursor=pointer]:
+                  - /url: ./
+              - paragraph [ref=e521]:
+                - link "Technology" [ref=e522] [cursor=pointer]:
+                  - /url: ./brand-protection-technology
+              - paragraph [ref=e524]:
+                - link "Solutions" [ref=e525] [cursor=pointer]:
+                  - /url: ./solutions
+              - paragraph [ref=e527]:
+                - link "Brand Protection Solutions" [ref=e528] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions
+              - paragraph [ref=e530]:
+                - link "Invisible Authentication" [ref=e531] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/invisible-authentication
+              - paragraph [ref=e533]:
+                - link "Online Brand Protection" [ref=e534] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/online-brand-protection
+              - paragraph [ref=e536]:
+                - link "Chirper" [ref=e537] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/chirper
+              - paragraph [ref=e539]:
+                - link "Anti Counterfeit Solutions" [ref=e540] [cursor=pointer]:
+                  - /url: ./anti-counterfeit-solution
+              - paragraph [ref=e542]:
+                - link "Product Authentication" [ref=e543] [cursor=pointer]:
+                  - /url: ./product-authentication
+          - generic [ref=e544]:
+            - heading "Resource Center" [level=5] [ref=e546]
+            - generic [ref=e547]:
+              - paragraph [ref=e549]:
+                - link "Resources" [ref=e550] [cursor=pointer]:
+                  - /url: ./resources
+              - paragraph [ref=e552]:
+                - link "Insightful" [ref=e553] [cursor=pointer]:
+                  - /url: ./resources/articles
+                - link "Articles" [ref=e554] [cursor=pointer]:
+                  - /url: ./resources/articles
+              - paragraph [ref=e556]:
+                - link "Case Studies" [ref=e557] [cursor=pointer]:
+                  - /url: ./resources/case-studies
+              - paragraph [ref=e559]:
+                - link "Guides" [ref=e560] [cursor=pointer]:
+                  - /url: ./resources/guides
+              - paragraph [ref=e562]:
+                - link "ROI Calculator" [ref=e563] [cursor=pointer]:
+                  - /url: ./resources/roi-calculator
+              - paragraph [ref=e565]:
+                - link "Glossary" [ref=e566] [cursor=pointer]:
+                  - /url: ./resources/glossary
+              - paragraph [ref=e568]:
+                - link "Compare" [ref=e569] [cursor=pointer]:
+                  - /url: ./resources/compare
+          - generic [ref=e570]:
+            - heading "Company" [level=5] [ref=e572]
+            - generic [ref=e573]:
+              - paragraph [ref=e575]:
+                - link "About Us" [ref=e576] [cursor=pointer]:
+                  - /url: ./about
+              - paragraph [ref=e578]:
+                - link "Partner" [ref=e579] [cursor=pointer]:
+                  - /url: ./about/partner
+              - paragraph [ref=e581]:
+                - link "Careers" [ref=e582] [cursor=pointer]:
+                  - /url: ./careers
+              - paragraph [ref=e584]:
+                - link "Privacy Policy" [ref=e585] [cursor=pointer]:
+                  - /url: ./policies/privacy-and-policy
+              - paragraph [ref=e587]:
+                - link "Terms & Conditions" [ref=e588] [cursor=pointer]:
+                  - /url: ./policies/terms-and-conditions
+              - button "Cookie Trigger" [ref=e590] [cursor=pointer]:
+                - generic [ref=e591]: Cookie Settings
+              - paragraph [ref=e593]:
+                - link "Contact Us" [ref=e594] [cursor=pointer]:
+                  - /url: ./contact
+          - generic [ref=e595]:
+            - link "LinkedIn" [ref=e597] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/ennoventure
+              - img [ref=e600]
+              - heading "LinkedIn" [level=6] [ref=e604]
+            - link "YouTube" [ref=e606] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZFp904MoHtaHX2i8jmoc5A
+              - img [ref=e609]
+              - heading "YouTube" [level=6] [ref=e613]
+            - link "Twitter" [ref=e615] [cursor=pointer]:
+              - /url: https://x.com/ennoventure
+              - img [ref=e618]
+              - heading "Twitter" [level=6] [ref=e621]
+            - link "Facebook" [ref=e623] [cursor=pointer]:
+              - /url: https://www.facebook.com/ennoventure/
+              - img [ref=e626]
+              - heading "Facebook" [level=6] [ref=e629]
+            - link "Instagram" [ref=e631] [cursor=pointer]:
+              - /url: https://www.instagram.com/ennoventure/
+              - img [ref=e634]
+              - heading "Instagram" [level=6] [ref=e639]
+        - paragraph [ref=e641]: All Copyrights Reserved @ Ennoventure 2025
+  - generic [ref=e645]:
+    - generic [ref=e646]:
+      - paragraph [ref=e647]: Cookie Settings
+      - paragraph [ref=e648]:
+        - text: We use cookies to personalize content, run ads, and analyze traffic.
+        - generic [ref=e649]:
+          - text: Read our
+          - link "Privacy Policy" [ref=e650] [cursor=pointer]:
+            - /url: /policies/privacy-and-policy
+          - text: .
+    - generic [ref=e651]:
+      - button "Reject all" [ref=e652] [cursor=pointer]
+      - button "Customize" [ref=e653] [cursor=pointer]
+      - button "Accept all" [ref=e654] [cursor=pointer]

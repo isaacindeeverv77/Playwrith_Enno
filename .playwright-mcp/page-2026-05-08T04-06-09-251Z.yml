@@ -1,0 +1,255 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e6]:
+      - generic [ref=e8]:
+        - link "Company Logo" [ref=e9] [cursor=pointer]:
+          - /url: ./
+        - navigation [ref=e11]:
+          - link "Home" [ref=e13] [cursor=pointer]:
+            - /url: ./
+            - paragraph [ref=e15]: Home
+          - link "Technology" [ref=e17] [cursor=pointer]:
+            - /url: ./brand-protection-technology
+            - paragraph [ref=e19]: Technology
+          - link "Solutions" [ref=e21] [cursor=pointer]:
+            - /url: ./solutions
+            - paragraph [ref=e23]: Solutions
+          - link "Resources" [ref=e25] [cursor=pointer]:
+            - /url: ./resources
+            - paragraph [ref=e27]: Resources
+          - link "About" [ref=e29] [cursor=pointer]:
+            - /url: ./about
+            - paragraph [ref=e31]: About
+          - button "Request Demo" [ref=e33] [cursor=pointer]:
+            - paragraph [ref=e36]: Request Demo
+    - main [ref=e38]:
+      - generic [ref=e39]:
+        - generic [ref=e40]:
+          - figure [ref=e41]
+          - figure [ref=e42]
+        - generic [ref=e47]:
+          - heading "C o n t a c t u s" [level=1] [ref=e49]:
+            - generic [ref=e50]:
+              - generic [ref=e51]: C
+              - generic [ref=e52]: o
+              - generic [ref=e53]: "n"
+              - generic [ref=e54]: t
+              - generic [ref=e55]: a
+              - generic [ref=e56]: c
+              - generic [ref=e57]: t
+            - generic [ref=e58]:
+              - generic [ref=e59]: u
+              - generic [ref=e60]: s
+          - paragraph [ref=e62]: Let’s connect! Whether it’s feedback, inquiries, or collaboration ideas, we’d love to hear from you.
+      - iframe [ref=e69]:
+        - form [ref=f11e6]:
+          - generic [ref=f11e9]:
+            - heading "Get in touch" [level=2] [ref=f11e10]
+            - paragraph [ref=f11e11]: Add the power of our invisible crypto-signatures to your product packaging - driving consumer trust and experience.
+          - generic [ref=f11e18]:
+            - generic [ref=f11e19]:
+              - generic [ref=f11e25]:
+                - generic [ref=f11e27]:
+                  - text: Name
+                  - emphasis [ref=f11e28]: "*"
+                - generic [ref=f11e31]:
+                  - generic [ref=f11e32]: Required
+                  - generic [ref=f11e33]:
+                    - generic [ref=f11e34]:
+                      - textbox "Name First Name Required" [ref=f11e35]:
+                        - /placeholder: John
+                      - img [ref=f11e36]
+                    - generic [ref=f11e38]: First Name
+                  - generic [ref=f11e39]: Required
+                  - generic [ref=f11e40]:
+                    - textbox "Name Last Name Required" [ref=f11e42]:
+                      - /placeholder: Walker
+                    - generic [ref=f11e43]: Last Name
+              - generic [ref=f11e46]:
+                - generic [ref=f11e47]:
+                  - generic [ref=f11e49]:
+                    - generic [ref=f11e51]:
+                      - text: Company Name
+                      - emphasis [ref=f11e52]: "*"
+                      - generic [ref=f11e53]: Required
+                    - generic [ref=f11e56]:
+                      - textbox "Company Name Required" [ref=f11e57]:
+                        - /placeholder: Acme Inc
+                      - img [ref=f11e58]
+                  - generic [ref=f11e61]:
+                    - generic [ref=f11e63]:
+                      - text: Work Email
+                      - emphasis [ref=f11e64]: "*"
+                      - generic [ref=f11e65]: Required
+                    - generic [ref=f11e66]:
+                      - generic [ref=f11e68]:
+                        - textbox "Work Email Required" [ref=f11e69]:
+                          - /placeholder: john@acme.com
+                        - img [ref=f11e70]
+                      - generic [ref=f11e72]: add your work email
+                - generic [ref=f11e75]:
+                  - generic [ref=f11e77]: Phone
+                  - generic [ref=f11e81]:
+                    - textbox "Phone" [ref=f11e82]:
+                      - /placeholder: +1 (333) 333-3333
+                    - img [ref=f11e83]
+              - generic [ref=f11e86]:
+                - generic [ref=f11e88]:
+                  - text: Your Business Requirments
+                  - emphasis [ref=f11e89]: "*"
+                  - generic [ref=f11e90]: Required
+                - textbox "Your Business Requirments Required" [ref=f11e94]:
+                  - /placeholder: ""
+            - button "Submit" [ref=f11e99] [cursor=pointer]:
+              - emphasis [ref=f11e100]: Submit
+      - generic [ref=e71]:
+        - generic [ref=e73]:
+          - heading "Answers to Your Top Questions" [level=2] [ref=e76]
+          - paragraph [ref=e79]: From setup steps to feature details, our FAQs cover everything you need to know.
+        - generic [ref=e83]:
+          - generic [ref=e86] [cursor=pointer]:
+            - paragraph [ref=e89]: Do we need new printing hardware or special inks?
+            - paragraph [ref=e96]: No. Ennoventure's technology works with standard printing equipment, conventional inks (CMYK, Pantone, specialty formulations), and existing substrates. Authentication signals embed within regular artwork using normal production processes-offset, flexographic, gravure, screen printing, or digital. No manufacturing process changes, specialized materials, or equipment modifications are required, enabling rapid deployment and cost-effective scaling.
+            - figure "Background Gradient" [ref=e97]
+            - figure "Background Gradient" [ref=e98]
+          - generic [ref=e101] [cursor=pointer]:
+            - paragraph [ref=e104]: How does invisible authentication differ?
+            - paragraph [ref=e111]: It embeds undetectable security into artwork and verifies with any smartphone. No app, no friction so attackers have nothing to study.
+            - figure "Background Gradient" [ref=e112]
+            - figure "Background Gradient" [ref=e113]
+          - generic [ref=e116] [cursor=pointer]:
+            - paragraph [ref=e119]: How fast is product verification?
+            - paragraph [ref=e126]: Average scan-to-verdict time is 2.3 seconds under normal field conditions using standard smartphones. This includes camera image capture, cloud upload, signal extraction, error correction, ensemble AI analysis, and results delivery. Verification speed enables real-time authentication for consumer purchases, supply chain inspection, customs clearance, and retail point-of-sale scenarios without workflow disruption.
+            - figure "Background Gradient" [ref=e127]
+            - figure "Background Gradient" [ref=e128]
+          - generic [ref=e131] [cursor=pointer]:
+            - paragraph [ref=e134]: How does authentication integrate with existing brand protection programs?
+            - paragraph [ref=e141]: "Ennoventure's technology complements traditional brand protection by providing: (1) Covert authentication that counterfeiters cannot study or replicate, (2) Real-time verification accessible to all stakeholders without specialized training, (3) Market intelligence through authentication analytics revealing counterfeiting patterns and geographic hotspots, (4) Evidence generation for legal enforcement and customs seizures, and (5) Consumer engagement through brand-owned authentication experiences. Integration occurs through APIs, SDKs, or dashboard access depending on brand requirements."
+            - figure "Background Gradient" [ref=e142]
+            - figure "Background Gradient" [ref=e143]
+          - generic [ref=e146] [cursor=pointer]:
+            - paragraph [ref=e149]: How does this compare to QR codes, RFID, or blockchain-based authentication?
+            - paragraph [ref=e156]: QR codes and visible tags are easily copied, removed, or counterfeited. Criminals simply reproduce the codes on fake products. RFID requires expensive tag procurement and reader infrastructure while remaining vulnerable to cloning. Blockchain provides transaction immutability but doesn't authenticate physical products themselves, counterfeiters can create fake products with blockchain-verified serial numbers. Invisible authentication operates at the artwork layer with cryptographic signals counterfeiters cannot detect or reproduce, requires only smartphones for verification, and embeds authentication inseparably within product packaging at minimal incremental cost.
+            - figure "Background Gradient" [ref=e157]
+            - figure "Background Gradient" [ref=e158]
+    - contentinfo [ref=e162]:
+      - generic [ref=e163]:
+        - generic [ref=e164]:
+          - link [ref=e166] [cursor=pointer]:
+            - /url: ./
+          - generic [ref=e170]:
+            - heading "Navigation" [level=5] [ref=e172]
+            - generic [ref=e173]:
+              - paragraph [ref=e175]:
+                - link "Home" [ref=e176] [cursor=pointer]:
+                  - /url: ./
+              - paragraph [ref=e178]:
+                - link "Technology" [ref=e179] [cursor=pointer]:
+                  - /url: ./brand-protection-technology
+              - paragraph [ref=e181]:
+                - link "Solutions" [ref=e182] [cursor=pointer]:
+                  - /url: ./solutions
+              - paragraph [ref=e184]:
+                - link "Brand Protection Solutions" [ref=e185] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions
+              - paragraph [ref=e187]:
+                - link "Invisible Authentication" [ref=e188] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/invisible-authentication
+              - paragraph [ref=e190]:
+                - link "Online Brand Protection" [ref=e191] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/online-brand-protection
+              - paragraph [ref=e193]:
+                - link "Chirper" [ref=e194] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/chirper
+              - paragraph [ref=e196]:
+                - link "Anti Counterfeit Solutions" [ref=e197] [cursor=pointer]:
+                  - /url: ./anti-counterfeit-solution
+              - paragraph [ref=e199]:
+                - link "Product Authentication" [ref=e200] [cursor=pointer]:
+                  - /url: ./product-authentication
+          - generic [ref=e201]:
+            - heading "Resource Center" [level=5] [ref=e203]
+            - generic [ref=e204]:
+              - paragraph [ref=e206]:
+                - link "Resources" [ref=e207] [cursor=pointer]:
+                  - /url: ./resources
+              - paragraph [ref=e209]:
+                - link "Insightful" [ref=e210] [cursor=pointer]:
+                  - /url: ./resources/articles
+                - link "Articles" [ref=e211] [cursor=pointer]:
+                  - /url: ./resources/articles
+              - paragraph [ref=e213]:
+                - link "Case Studies" [ref=e214] [cursor=pointer]:
+                  - /url: ./resources/case-studies
+              - paragraph [ref=e216]:
+                - link "Guides" [ref=e217] [cursor=pointer]:
+                  - /url: ./resources/guides
+              - paragraph [ref=e219]:
+                - link "ROI Calculator" [ref=e220] [cursor=pointer]:
+                  - /url: ./resources/roi-calculator
+              - paragraph [ref=e222]:
+                - link "Glossary" [ref=e223] [cursor=pointer]:
+                  - /url: ./resources/glossary
+              - paragraph [ref=e225]:
+                - link "Compare" [ref=e226] [cursor=pointer]:
+                  - /url: ./resources/compare
+          - generic [ref=e227]:
+            - heading "Company" [level=5] [ref=e229]
+            - generic [ref=e230]:
+              - paragraph [ref=e232]:
+                - link "About Us" [ref=e233] [cursor=pointer]:
+                  - /url: ./about
+              - paragraph [ref=e235]:
+                - link "Partner" [ref=e236] [cursor=pointer]:
+                  - /url: ./about/partner
+              - paragraph [ref=e238]:
+                - link "Careers" [ref=e239] [cursor=pointer]:
+                  - /url: ./careers
+              - paragraph [ref=e241]:
+                - link "Privacy Policy" [ref=e242] [cursor=pointer]:
+                  - /url: ./policies/privacy-and-policy
+              - paragraph [ref=e244]:
+                - link "Terms & Conditions" [ref=e245] [cursor=pointer]:
+                  - /url: ./policies/terms-and-conditions
+              - button "Cookie Trigger" [ref=e247] [cursor=pointer]:
+                - generic [ref=e248]: Cookie Settings
+              - paragraph [ref=e250]:
+                - link "Contact Us" [ref=e251] [cursor=pointer]:
+                  - /url: ./contact
+          - generic [ref=e252]:
+            - link "LinkedIn" [ref=e254] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/ennoventure
+              - img [ref=e257]
+              - heading "LinkedIn" [level=6] [ref=e261]
+            - link "YouTube" [ref=e263] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZFp904MoHtaHX2i8jmoc5A
+              - img [ref=e266]
+              - heading "YouTube" [level=6] [ref=e270]
+            - link "Twitter" [ref=e272] [cursor=pointer]:
+              - /url: https://x.com/ennoventure
+              - img [ref=e275]
+              - heading "Twitter" [level=6] [ref=e278]
+            - link "Facebook" [ref=e280] [cursor=pointer]:
+              - /url: https://www.facebook.com/ennoventure/
+              - img [ref=e283]
+              - heading "Facebook" [level=6] [ref=e286]
+            - link "Instagram" [ref=e288] [cursor=pointer]:
+              - /url: https://www.instagram.com/ennoventure/
+              - img [ref=e291]
+              - heading "Instagram" [level=6] [ref=e296]
+        - paragraph [ref=e298]: All Copyrights Reserved @ Ennoventure 2025
+  - generic [ref=e302]:
+    - generic [ref=e303]:
+      - paragraph [ref=e304]: Cookie Settings
+      - paragraph [ref=e305]:
+        - text: We use cookies to personalize content, run ads, and analyze traffic.
+        - generic [ref=e306]:
+          - text: Read our
+          - link "Privacy Policy" [ref=e307] [cursor=pointer]:
+            - /url: /policies/privacy-and-policy
+          - text: .
+    - generic [ref=e308]:
+      - button "Reject all" [ref=e309] [cursor=pointer]
+      - button "Customize" [ref=e310] [cursor=pointer]
+      - button "Accept all" [ref=e311] [cursor=pointer]
+  - generic:  

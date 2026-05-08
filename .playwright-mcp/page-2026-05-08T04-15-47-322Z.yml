@@ -1,0 +1,307 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e6]:
+      - generic [ref=e8]:
+        - link "Company Logo" [ref=e9] [cursor=pointer]:
+          - /url: ./
+        - navigation [ref=e11]:
+          - link "Home" [ref=e13] [cursor=pointer]:
+            - /url: ./
+            - paragraph [ref=e15]: Home
+          - link "Technology" [ref=e17] [cursor=pointer]:
+            - /url: ./brand-protection-technology
+            - paragraph [ref=e19]: Technology
+          - link "Solutions" [ref=e21] [cursor=pointer]:
+            - /url: ./solutions
+            - paragraph [ref=e23]: Solutions
+          - link "Resources" [ref=e25] [cursor=pointer]:
+            - /url: ./resources
+            - paragraph [ref=e27]: Resources
+          - link "About" [ref=e29] [cursor=pointer]:
+            - /url: ./about
+            - paragraph [ref=e31]: About
+          - button "Request Demo" [ref=e33] [cursor=pointer]:
+            - paragraph [ref=e36]: Request Demo
+    - main [ref=e1874]:
+      - generic [ref=e1875]:
+        - figure [ref=e1877]
+        - generic [ref=e1882]:
+          - heading "E n d - t o - e n d B r a n d P r o t e c t i o n S o l u t i o n s" [level=1] [ref=e1884]:
+            - generic [ref=e1885]:
+              - generic [ref=e1886]: E
+              - generic [ref=e1887]: "n"
+              - generic [ref=e1888]: d
+              - generic [ref=e1889]: "-"
+              - generic [ref=e1890]: t
+              - generic [ref=e1891]: o
+              - generic [ref=e1892]: "-"
+              - generic [ref=e1893]: e
+              - generic [ref=e1894]: "n"
+              - generic [ref=e1895]: d
+            - generic [ref=e1896]:
+              - generic [ref=e1897]: B
+              - generic [ref=e1898]: r
+              - generic [ref=e1899]: a
+              - generic [ref=e1900]: "n"
+              - generic [ref=e1901]: d
+            - generic [ref=e1902]:
+              - generic [ref=e1903]: P
+              - generic [ref=e1904]: r
+              - generic [ref=e1905]: o
+              - generic [ref=e1906]: t
+              - generic [ref=e1907]: e
+              - generic [ref=e1908]: c
+              - generic [ref=e1909]: t
+              - generic [ref=e1910]: i
+              - generic [ref=e1911]: o
+              - generic [ref=e1912]: "n"
+            - generic [ref=e1913]:
+              - generic [ref=e1914]: S
+              - generic [ref=e1915]: o
+              - generic [ref=e1916]: l
+              - generic [ref=e1917]: u
+              - generic [ref=e1918]: t
+              - generic [ref=e1919]: i
+              - generic [ref=e1920]: o
+              - generic [ref=e1921]: "n"
+              - generic [ref=e1922]: s
+          - paragraph [ref=e1924]: Ennoventure delivers secure, tech-driven solutions for authentic product experiences and effective anti-counterfeiting protection across online and offline channels.
+      - generic [ref=e1928]:
+        - heading "Who We Are" [level=4] [ref=e1931]
+        - generic [ref=e1932]:
+          - paragraph [ref=e1933]: Every company wants to deliver authentic product experience to their customers.
+          - paragraph [ref=e1934]
+          - paragraph [ref=e1935]: Ennoventure exists to make that a reality. Our invisible signature technology and end to end online brand protection solutions are deployed at global scale by companies like Nestle, Unilever, CNH, Denso, and many more. We partner with future focused companies to make counterfeiting an obsolete threat.
+          - paragraph [ref=e1936]
+          - paragraph [ref=e1937]: With 8 years in brand protection solutions and 20TB of manufacturing data feeding our AI ensemble technology, we're your strategic partner in building brand trust and authenticity where rigorous technology meets the products people depend on every day.
+        - generic [ref=e1938]:
+          - generic [ref=e1939]:
+            - paragraph [ref=e1941]: 100 Million+
+            - paragraph [ref=e1943]: Authentication coverage
+          - generic [ref=e1944]:
+            - paragraph [ref=e1946]: USA, Dubai & India
+            - paragraph [ref=e1948]: Global Locations
+          - generic [ref=e1949]:
+            - paragraph [ref=e1951]: 2 Patents Granted
+            - paragraph [ref=e1953]: with many more in the pipeline
+      - generic [ref=e1956]:
+        - generic [ref=e1957]:
+          - paragraph [ref=e1958]
+          - heading "Unlock the Unseen" [level=2] [ref=e1959]
+          - paragraph [ref=e1960]:
+            - text: Ennoventure is driven by a
+            - strong [ref=e1961]: mission
+            - text: to unlock innovation using our patented, invisible encrypted technology that can be scanned for authentication by any smartphone on the planet.
+          - paragraph [ref=e1962]:
+            - text: Our technology is
+            - strong [ref=e1963]: sustainable
+            - text: and can be implemented on products
+            - strong [ref=e1964]: without requiring any changes
+            - text: to industrial processes, new materials, or additional machinery.
+          - paragraph [ref=e1965]:
+            - text: We
+            - strong [ref=e1966]: collaborate
+            - text: with
+            - strong [ref=e1967]: global
+            - text: brands across various industries to seamlessly integrate our
+            - strong [ref=e1968]: anti-counterfeiting solution
+            - text: into their supply chains, packaging, and labeling, empowering consumers to safeguard themselves against counterfeit products.
+          - paragraph [ref=e1969]:
+            - text: Our
+            - strong [ref=e1970]: innovation
+            - text: is powered by
+            - strong [ref=e1971]: our people
+            - text: who work out of the USA, India and GCC who embody our values.
+          - paragraph [ref=e1972]:
+            - text: We truly
+            - strong [ref=e1973]: believe
+            - text: that our work can change the world for the better.
+          - paragraph [ref=e1974]:
+            - text: By unlocking the unseen, we can see
+            - strong [ref=e1975]: true change
+            - text: and impact.
+        - figure "Geni AI Team" [ref=e1976]
+      - generic [ref=e1979]:
+        - generic [ref=e1982]:
+          - figure [ref=e1985]:
+            - img "Icon of a printer within a circular outline, designed in purple and white colors." [ref=e1987]
+          - generic [ref=e1988]:
+            - heading "Mission" [level=5] [ref=e1990]
+            - paragraph [ref=e1992]: Drive global change through futuristic technology to deliver experiences that empower humans and improve access to information.
+        - generic [ref=e1995]:
+          - figure [ref=e1998]:
+            - img "A hand holding a smartphone with a QR code displayed on the screen, set within a circular outline." [ref=e2000]
+          - generic [ref=e2001]:
+            - heading "Vision" [level=5] [ref=e2003]
+            - paragraph [ref=e2005]: Create technology-powered experiences that enable a better future for all life, everyday.
+        - generic [ref=e2008]:
+          - figure [ref=e2011]:
+            - img "Icon depicting a computer monitor with data analysis charts, enclosed in a circular outline." [ref=e2013]
+          - generic [ref=e2014]:
+            - heading "Core Values" [level=5] [ref=e2016]
+            - paragraph [ref=e2018]: Innovate fearlessly. Explore and be open to perspectives. Stand up, thrash out and commit to deliver.
+      - generic [ref=e2021]:
+        - generic [ref=e2022]:
+          - button "Management Team" [ref=e2023] [cursor=pointer]
+          - button "Board of Directors" [ref=e2024] [cursor=pointer]
+        - generic [ref=e2026]:
+          - generic [ref=e2029]:
+            - heading "Padmakumar Nair" [level=2] [ref=e2030]
+            - heading "Founder and CEO" [level=3] [ref=e2031]
+            - paragraph [ref=e2032]: MIT Sloan alumnus with 18+ years in global strategy and team leadership. With over a decade of senior leadership across international markets, he specializes in scaling ventures that merge technology, strategy, and customer impact.
+            - link "Padmakumar Nair's LinkedIn profile" [ref=e2033] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/padmakumarnair007/
+              - img [ref=e2034]
+          - generic [ref=e2038]:
+            - heading "Nikhil Narayan" [level=2] [ref=e2039]
+            - heading "Vice President - Data Science" [level=3] [ref=e2040]
+            - paragraph [ref=e2041]: PhD from Nanyang Technological University with 10+ years in computer vision. Ex- Sony and Samsung. He is working on cutting edge AI/ML models for real-time verification and sustainable tech integration.
+            - link "Nikhil Narayan's LinkedIn profile" [ref=e2042] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/nikhil-narayan-ph-d-29b22aa/
+              - img [ref=e2043]
+          - generic [ref=e2047]:
+            - heading "Arjun Karath" [level=2] [ref=e2048]
+            - heading "Director- Marketing and Growth" [level=3] [ref=e2049]
+            - paragraph [ref=e2050]: IIM Lucknow and VIT Vellore alumnus with 15+ years in AI led GTM and online marketing. Ex-InMobi and Flipkart. He is working on AI automation to streamline sales, marketing, and customer success.
+            - link "Arjun Karath's LinkedIn profile" [ref=e2051] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/arjun-karath/
+              - img [ref=e2052]
+          - generic [ref=e2056]:
+            - heading "Prasenjit Ghoshal" [level=2] [ref=e2057]
+            - heading "Head Of Engineering" [level=3] [ref=e2058]
+            - paragraph [ref=e2059]: IIT Kanpur alumnus and Six Sigma certified technical expert with 13+ years across security, finance, healthcare. Excels in Java, Python, Cloud, DevOps, AI, scaling global architecture.
+            - link "Prasenjit Ghoshal's LinkedIn profile" [ref=e2060] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/prasenjit-ghoshal/
+              - img [ref=e2061]
+          - generic [ref=e2065]:
+            - heading "Apurva Pareek" [level=2] [ref=e2066]
+            - heading "Associate Director - Finance & Accounts" [level=3] [ref=e2067]
+            - paragraph [ref=e2068]: ICAI trained CA with 12+ years in financial planning, audits, compliance. Ex-InMobi and Unilever. Drives fiscal strategy, cost optimization, and investor relations.
+            - link "Apurva Pareek's LinkedIn profile" [ref=e2069] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/apurva-pareek-b234a6138/
+              - img [ref=e2070]
+      - generic [ref=e2075]:
+        - heading "Our Locations" [level=4] [ref=e2077]
+        - paragraph [ref=e2079]: We have a strong global presence with key offices in the United States, United Arab Emirates, and India. Our distributed team structure allows us to serve enterprise clients across multiple time zones, providing localized support and rapid response for brand protection deployments worldwide. Each office brings regional expertise in compliance, manufacturing standards, and supply chain management to deliver tailored solutions for local markets.
+    - contentinfo [ref=e818]:
+      - generic [ref=e819]:
+        - generic [ref=e820]:
+          - link [ref=e822] [cursor=pointer]:
+            - /url: ./
+          - generic [ref=e826]:
+            - heading "Navigation" [level=5] [ref=e828]
+            - generic [ref=e829]:
+              - paragraph [ref=e831]:
+                - link "Home" [ref=e832] [cursor=pointer]:
+                  - /url: ./
+              - paragraph [ref=e834]:
+                - link "Technology" [ref=e835] [cursor=pointer]:
+                  - /url: ./brand-protection-technology
+              - paragraph [ref=e837]:
+                - link "Solutions" [ref=e838] [cursor=pointer]:
+                  - /url: ./solutions
+              - paragraph [ref=e840]:
+                - link "Brand Protection Solutions" [ref=e841] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions
+              - paragraph [ref=e843]:
+                - link "Invisible Authentication" [ref=e844] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/invisible-authentication
+              - paragraph [ref=e846]:
+                - link "Online Brand Protection" [ref=e847] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/online-brand-protection
+              - paragraph [ref=e849]:
+                - link "Chirper" [ref=e850] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/chirper
+              - paragraph [ref=e852]:
+                - link "Anti Counterfeit Solutions" [ref=e853] [cursor=pointer]:
+                  - /url: ./anti-counterfeit-solution
+              - paragraph [ref=e855]:
+                - link "Product Authentication" [ref=e856] [cursor=pointer]:
+                  - /url: ./product-authentication
+          - generic [ref=e857]:
+            - heading "Resource Center" [level=5] [ref=e859]
+            - generic [ref=e860]:
+              - paragraph [ref=e862]:
+                - link "Resources" [ref=e863] [cursor=pointer]:
+                  - /url: ./resources
+              - paragraph [ref=e865]:
+                - link "Insightful" [ref=e866] [cursor=pointer]:
+                  - /url: ./resources/articles
+                - link "Articles" [ref=e867] [cursor=pointer]:
+                  - /url: ./resources/articles
+              - paragraph [ref=e869]:
+                - link "Case Studies" [ref=e870] [cursor=pointer]:
+                  - /url: ./resources/case-studies
+              - paragraph [ref=e872]:
+                - link "Guides" [ref=e873] [cursor=pointer]:
+                  - /url: ./resources/guides
+              - paragraph [ref=e875]:
+                - link "ROI Calculator" [ref=e876] [cursor=pointer]:
+                  - /url: ./resources/roi-calculator
+              - paragraph [ref=e878]:
+                - link "Glossary" [ref=e879] [cursor=pointer]:
+                  - /url: ./resources/glossary
+              - paragraph [ref=e881]:
+                - link "Compare" [ref=e882] [cursor=pointer]:
+                  - /url: ./resources/compare
+          - generic [ref=e883]:
+            - heading "Company" [level=5] [ref=e885]
+            - generic [ref=e886]:
+              - paragraph [ref=e888]:
+                - link "About Us" [ref=e889] [cursor=pointer]:
+                  - /url: ./about
+              - paragraph [ref=e891]:
+                - link "Partner" [ref=e892] [cursor=pointer]:
+                  - /url: ./about/partner
+              - paragraph [ref=e894]:
+                - link "Careers" [ref=e895] [cursor=pointer]:
+                  - /url: ./careers
+              - paragraph [ref=e897]:
+                - link "Privacy Policy" [ref=e898] [cursor=pointer]:
+                  - /url: ./policies/privacy-and-policy
+              - paragraph [ref=e900]:
+                - link "Terms & Conditions" [ref=e901] [cursor=pointer]:
+                  - /url: ./policies/terms-and-conditions
+              - button "Cookie Trigger" [ref=e903] [cursor=pointer]:
+                - generic [ref=e904]: Cookie Settings
+              - paragraph [ref=e906]:
+                - link "Contact Us" [ref=e907] [cursor=pointer]:
+                  - /url: ./contact
+          - generic [ref=e908]:
+            - link "LinkedIn" [ref=e910] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/ennoventure
+              - img [ref=e913]
+              - heading "LinkedIn" [level=6] [ref=e917]
+            - link "YouTube" [ref=e919] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZFp904MoHtaHX2i8jmoc5A
+              - img [ref=e922]
+              - heading "YouTube" [level=6] [ref=e926]
+            - link "Twitter" [ref=e928] [cursor=pointer]:
+              - /url: https://x.com/ennoventure
+              - img [ref=e931]
+              - heading "Twitter" [level=6] [ref=e934]
+            - link "Facebook" [ref=e936] [cursor=pointer]:
+              - /url: https://www.facebook.com/ennoventure/
+              - img [ref=e939]
+              - heading "Facebook" [level=6] [ref=e942]
+            - link "Instagram" [ref=e944] [cursor=pointer]:
+              - /url: https://www.instagram.com/ennoventure/
+              - img [ref=e947]
+              - heading "Instagram" [level=6] [ref=e952]
+        - paragraph [ref=e954]: All Copyrights Reserved @ Ennoventure 2025
+  - generic [ref=e978]:
+    - generic [ref=e979]:
+      - paragraph [ref=e980]: Cookie Settings
+      - paragraph [ref=e981]:
+        - text: We use cookies to personalize content, run ads, and analyze traffic.
+        - generic [ref=e982]:
+          - text: Read our
+          - link "Privacy Policy" [ref=e983] [cursor=pointer]:
+            - /url: /policies/privacy-and-policy
+          - text: .
+    - generic [ref=e984]:
+      - button "Reject all" [ref=e985] [cursor=pointer]
+      - button "Customize" [ref=e986] [cursor=pointer]
+      - button "Accept all" [ref=e987] [cursor=pointer]
+  - generic:  
+  - generic: About Ennoventure | Our Mission to End Counterfeiting

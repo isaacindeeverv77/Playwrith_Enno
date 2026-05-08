@@ -1,0 +1,542 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e6]:
+      - generic [ref=e8]:
+        - link "Company Logo" [ref=e9] [cursor=pointer]:
+          - /url: ./
+        - navigation [ref=e11]:
+          - link "Home" [active] [ref=e13] [cursor=pointer]:
+            - /url: ./
+            - paragraph [ref=e15]: Home
+          - link "Technology" [ref=e17] [cursor=pointer]:
+            - /url: ./brand-protection-technology
+            - paragraph [ref=e19]: Technology
+          - link "Solutions" [ref=e21] [cursor=pointer]:
+            - /url: ./solutions
+            - paragraph [ref=e23]: Solutions
+          - link "Resources" [ref=e25] [cursor=pointer]:
+            - /url: ./resources
+            - paragraph [ref=e27]: Resources
+          - link "About" [ref=e29] [cursor=pointer]:
+            - /url: ./about
+            - paragraph [ref=e31]: About
+          - button "Request Demo" [ref=e33] [cursor=pointer]:
+            - paragraph [ref=e36]: Request Demo
+    - main [ref=e38]:
+      - generic [ref=e51]:
+        - heading "Protect. Authenticate. Engage." [level=4] [ref=e53]:
+          - generic [ref=e54]: Protect.
+          - generic [ref=e55]: Authenticate.
+          - generic [ref=e56]: Engage.
+        - paragraph [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60]: T
+            - generic [ref=e61]: h
+            - generic [ref=e62]: e
+          - generic [ref=e63]:
+            - generic [ref=e64]: w
+            - generic [ref=e65]: o
+            - generic [ref=e66]: r
+            - generic [ref=e67]: l
+            - generic [ref=e68]: d
+            - generic [ref=e69]: "'"
+            - generic [ref=e70]: s
+          - generic [ref=e71]:
+            - generic [ref=e72]: m
+            - generic [ref=e73]: o
+            - generic [ref=e74]: s
+            - generic [ref=e75]: t
+          - generic [ref=e76]:
+            - generic [ref=e77]: v
+            - generic [ref=e78]: a
+            - generic [ref=e79]: l
+            - generic [ref=e80]: u
+            - generic [ref=e81]: a
+            - generic [ref=e82]: b
+            - generic [ref=e83]: l
+            - generic [ref=e84]: e
+          - generic [ref=e85]:
+            - generic [ref=e86]: b
+            - generic [ref=e87]: r
+            - generic [ref=e88]: a
+            - generic [ref=e89]: "n"
+            - generic [ref=e90]: d
+            - generic [ref=e91]: s
+          - generic [ref=e92]:
+            - generic [ref=e93]: t
+            - generic [ref=e94]: r
+            - generic [ref=e95]: u
+            - generic [ref=e96]: s
+            - generic [ref=e97]: t
+          - generic [ref=e98]:
+            - generic [ref=e99]: o
+            - generic [ref=e100]: u
+            - generic [ref=e101]: r
+          - generic [ref=e102]:
+            - generic [ref=e103]: p
+            - generic [ref=e104]: a
+            - generic [ref=e105]: t
+            - generic [ref=e106]: e
+            - generic [ref=e107]: "n"
+            - generic [ref=e108]: t
+            - generic [ref=e109]: e
+            - generic [ref=e110]: d
+          - generic [ref=e111]:
+            - generic [ref=e112]: i
+            - generic [ref=e113]: "n"
+            - generic [ref=e114]: v
+            - generic [ref=e115]: i
+            - generic [ref=e116]: s
+            - generic [ref=e117]: i
+            - generic [ref=e118]: b
+            - generic [ref=e119]: l
+            - generic [ref=e120]: e
+          - generic [ref=e121]:
+            - generic [ref=e122]: t
+            - generic [ref=e123]: e
+            - generic [ref=e124]: c
+            - generic [ref=e125]: h
+            - generic [ref=e126]: "n"
+            - generic [ref=e127]: o
+            - generic [ref=e128]: l
+            - generic [ref=e129]: o
+            - generic [ref=e130]: g
+            - generic [ref=e131]: "y"
+          - generic [ref=e132]:
+            - generic [ref=e133]: t
+            - generic [ref=e134]: o
+          - generic [ref=e135]:
+            - generic [ref=e136]: t
+            - generic [ref=e137]: u
+            - generic [ref=e138]: r
+            - generic [ref=e139]: "n"
+          - generic [ref=e140]:
+            - generic [ref=e141]: e
+            - generic [ref=e142]: v
+            - generic [ref=e143]: e
+            - generic [ref=e144]: r
+            - generic [ref=e145]: "y"
+          - generic [ref=e146]:
+            - generic [ref=e147]: p
+            - generic [ref=e148]: r
+            - generic [ref=e149]: o
+            - generic [ref=e150]: d
+            - generic [ref=e151]: u
+            - generic [ref=e152]: c
+            - generic [ref=e153]: t
+          - generic [ref=e154]:
+            - generic [ref=e155]: i
+            - generic [ref=e156]: "n"
+            - generic [ref=e157]: t
+            - generic [ref=e158]: o
+          - generic [ref=e159]:
+            - generic [ref=e160]: i
+            - generic [ref=e161]: "n"
+            - generic [ref=e162]: t
+            - generic [ref=e163]: e
+            - generic [ref=e164]: l
+            - generic [ref=e165]: l
+            - generic [ref=e166]: i
+            - generic [ref=e167]: g
+            - generic [ref=e168]: e
+            - generic [ref=e169]: "n"
+            - generic [ref=e170]: t
+          - generic [ref=e171]:
+            - generic [ref=e172]: p
+            - generic [ref=e173]: r
+            - generic [ref=e174]: o
+            - generic [ref=e175]: o
+            - generic [ref=e176]: f
+          - generic [ref=e177]:
+            - generic [ref=e178]: o
+            - generic [ref=e179]: f
+          - generic [ref=e180]:
+            - generic [ref=e181]: a
+            - generic [ref=e182]: u
+            - generic [ref=e183]: t
+            - generic [ref=e184]: h
+            - generic [ref=e185]: e
+            - generic [ref=e186]: "n"
+            - generic [ref=e187]: t
+            - generic [ref=e188]: i
+            - generic [ref=e189]: c
+            - generic [ref=e190]: i
+            - generic [ref=e191]: t
+            - generic [ref=e192]: "y"
+            - generic [ref=e193]: .
+        - list [ref=e197]:
+          - listitem [ref=e198]
+          - listitem [ref=e201]
+          - listitem [ref=e204]
+          - listitem [ref=e207]
+          - listitem [ref=e210]
+          - listitem [ref=e213]
+          - listitem [ref=e216]
+          - listitem [ref=e219]
+          - listitem [ref=e222]
+          - listitem [ref=e225]
+          - listitem [ref=e228]
+          - listitem [ref=e231]
+          - listitem [ref=e234]
+          - listitem [ref=e237]
+          - listitem [ref=e240]
+          - listitem [ref=e243]
+          - listitem [ref=e246]
+          - listitem [ref=e249]
+          - listitem [ref=e252]
+          - listitem [ref=e255]
+          - listitem [ref=e258]
+          - listitem [ref=e261]
+          - listitem [ref=e264]
+          - listitem [ref=e267]
+          - listitem [ref=e270]
+          - listitem [ref=e273]
+          - listitem [ref=e276]
+          - listitem [ref=e279]
+          - listitem [ref=e282]
+          - listitem [ref=e285]
+          - listitem [ref=e288]
+          - listitem [ref=e291]
+          - listitem [ref=e294]
+      - generic [ref=e298]:
+        - generic [ref=e300] [cursor=pointer]:
+          - paragraph [ref=e302]: Zero Process Change. Live in 48 hours.
+          - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e305]
+        - generic [ref=e317] [cursor=pointer]:
+          - paragraph [ref=e319]: Impossible to replicate unlike visible markers like QR and bar codes.
+          - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e322]
+        - generic [ref=e334] [cursor=pointer]:
+          - paragraph [ref=e336]: Scan with smartphone camera. Real time intelligence across markets.
+          - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e339]
+        - generic [ref=e351] [cursor=pointer]:
+          - paragraph [ref=e353]: End to end brand protection solution- across online and offline supply chain
+          - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e356]
+      - generic [ref=e368]:
+        - generic [ref=e370]:
+          - heading "One invisible standard, every market" [level=2] [ref=e372]
+          - paragraph [ref=e374]: Scale across print, teams, markets, and systems with one invisible standard.
+          - button "Request Demo" [ref=e376] [cursor=pointer]:
+            - paragraph [ref=e379]: Request Demo
+        - generic [ref=e380]:
+          - generic [ref=e383]:
+            - generic [ref=e385]:
+              - heading "Cut complexity, not corners" [level=5] [ref=e387]
+              - paragraph [ref=e389]: Ditch region‑specific holograms and tool‑heavy checks for one invisible marker and no inks or hardware added.
+            - img "GlobalTech Smartwatch box with lock design on a futuristic background in a hand against black background." [ref=e394]
+          - generic [ref=e397]:
+            - generic [ref=e399]:
+              - heading "Real world use" [level=5] [ref=e401]
+              - paragraph [ref=e403]: One scan flow on any smartphone covers field teams, distributors, and consumers for consistent verification.
+            - img "Hand holding premium wireless earbuds packaging next to a smartphone with earbuds pairing on screen." [ref=e408]
+          - generic [ref=e411]:
+            - generic [ref=e413]:
+              - heading "Scale once, everywhere" [level=5] [ref=e415]
+              - paragraph [ref=e417]: Launch in days, then add SKUs and regions on demand.
+            - img "Global network connections on a world map, illustrating international relations and digital communication pathways worldwide." [ref=e422]
+          - generic [ref=e425]:
+            - generic [ref=e426]:
+              - heading "Portfolio Intelligence" [level=5] [ref=e428]
+              - paragraph [ref=e430]: Stream scans into ERP, WMS, and CRM for SKU, batch, channel, and region views.
+            - img "Dark dashboard interface with various charts and graphs displaying statistics and data visualization tools." [ref=e435]
+      - generic [ref=e436]:
+        - generic [ref=e439]:
+          - generic [ref=e440] [cursor=pointer]:
+            - generic [ref=e443]:
+              - generic [ref=e444]: "01"
+              - generic [ref=e445]: Share
+            - generic [ref=e990]: You share your artwork with us.
+          - generic [ref=e452] [cursor=pointer]:
+            - generic [ref=e453]: "02"
+            - generic [ref=e454]: Enncrypt
+          - generic [ref=e457] [cursor=pointer]:
+            - generic [ref=e458]: "03"
+            - generic [ref=e459]: Print
+          - generic [ref=e462] [cursor=pointer]:
+            - generic [ref=e463]: "04"
+            - generic [ref=e464]: Authenticate
+        - paragraph [ref=e466]:
+          - generic [ref=e467]:
+            - generic [ref=e468]: E
+            - generic [ref=e469]: m
+            - generic [ref=e470]: b
+            - generic [ref=e471]: e
+            - generic [ref=e472]: d
+          - generic [ref=e473]:
+            - generic [ref=e474]: i
+            - generic [ref=e475]: "n"
+          - generic [ref=e476]:
+            - generic [ref=e477]: "4"
+            - generic [ref=e478]: "8"
+          - generic [ref=e479]:
+            - generic [ref=e480]: h
+            - generic [ref=e481]: o
+            - generic [ref=e482]: u
+            - generic [ref=e483]: r
+            - generic [ref=e484]: s
+            - generic [ref=e485]: .
+          - link "I m p o s s i b l e t o c o p y" [ref=e486] [cursor=pointer]:
+            - /url: ./brand-protection-technology
+            - generic [ref=e487]:
+              - generic [ref=e488]: I
+              - generic [ref=e489]: m
+              - generic [ref=e490]: p
+              - generic [ref=e491]: o
+              - generic [ref=e492]: s
+              - generic [ref=e493]: s
+              - generic [ref=e494]: i
+              - generic [ref=e495]: b
+              - generic [ref=e496]: l
+              - generic [ref=e497]: e
+            - generic [ref=e498]:
+              - generic [ref=e499]: t
+              - generic [ref=e500]: o
+            - generic [ref=e501]:
+              - generic [ref=e502]: c
+              - generic [ref=e503]: o
+              - generic [ref=e504]: p
+              - generic [ref=e505]: "y"
+          - generic [ref=e506]:
+            - generic [ref=e507]: i
+            - generic [ref=e508]: "n"
+          - generic [ref=e510]: a
+          - generic [ref=e511]:
+            - generic [ref=e512]: l
+            - generic [ref=e513]: i
+            - generic [ref=e514]: f
+            - generic [ref=e515]: e
+            - generic [ref=e516]: t
+            - generic [ref=e517]: i
+            - generic [ref=e518]: m
+            - generic [ref=e519]: e
+            - generic [ref=e520]: .
+        - heading "Simple yet unbreakable" [level=2] [ref=e524]
+      - generic [ref=e526]:
+        - generic [ref=e528]:
+          - heading "Key Highlights" [level=2] [ref=e531]:
+            - strong [ref=e532]: Key Highlights
+          - paragraph [ref=e534]: Proof of durability, speed, ROI, sustainability, and compliance
+        - generic [ref=e536]:
+          - generic [ref=e537]:
+            - generic [ref=e540]:
+              - figure [ref=e543]
+              - generic [ref=e545]:
+                - heading "Proven and invisible" [level=5] [ref=e547]
+                - paragraph [ref=e549]: Eight years and 20 TB of print intelligence deliver covert, unforgeable authentication at industrial scale.
+            - generic [ref=e553]:
+              - figure [ref=e556]
+              - generic [ref=e558]:
+                - heading "Impact in one quarter" [level=5] [ref=e560]
+                - paragraph [ref=e562]: Time to detection under 6 hours, payback within three months and ROI of atleast 5:1 by year one.
+          - generic [ref=e563]:
+            - generic [ref=e567]:
+              - figure [ref=e570]
+              - generic [ref=e572]:
+                - heading "Global by design" [level=5] [ref=e574]
+                - paragraph [ref=e576]: 160+ countries live with localized playbooks and support.
+            - generic [ref=e580]:
+              - figure [ref=e582]
+              - generic [ref=e584]:
+                - heading "Sustainability you can report" [level=5] [ref=e586]
+                - paragraph [ref=e588]: Zero added materials with measurable plastic and CO2e cuts per million units and EPR savings.
+          - generic [ref=e593]:
+            - figure [ref=e595]
+            - generic [ref=e597]:
+              - heading "Compliance ready on day one" [level=5] [ref=e599]
+              - paragraph [ref=e601]: Audit-ready trails mapped to DPP, EPR, and FDA requirements out of the box.
+          - figure "Multicolor Sphere" [ref=e605]
+      - generic [ref=e622]:
+        - generic [ref=e623]:
+          - figure "Multicolor Sphere" [ref=e626]
+          - heading "Impact & Proof" [level=2] [ref=e630]
+        - generic [ref=e631]:
+          - figure [ref=e636]
+          - figure [ref=e642]
+          - figure [ref=e648]
+          - figure [ref=e654]
+          - figure [ref=e660]
+          - figure [ref=e666]
+        - generic [ref=e668]:
+          - img [ref=e672]
+          - img [ref=e677]
+          - img [ref=e682]
+      - generic "Video popup trigger region" [ref=e686]
+      - generic [ref=e687]:
+        - heading "Immediate Next Steps" [level=2] [ref=e692]
+        - generic [ref=e693]:
+          - generic [ref=e694]:
+            - figure [ref=e695]
+            - generic [ref=e696]:
+              - figure [ref=e698]:
+                - img "An illustration of a vintage film camera surrounded by film reels and popcorn, all in purple." [ref=e700]
+              - generic [ref=e701]:
+                - heading "See Your Numbers" [level=5] [ref=e703]
+                - paragraph [ref=e705]: Use our ROI calculator to understand the financial impact of implementing Ennoventure for your specific situation and industry.
+              - button "Open the ROI Calculator" [ref=e706]:
+                - link [ref=e707] [cursor=pointer]:
+                  - /url: ./resources/roi-calculator
+                - generic [ref=e708]:
+                  - generic:
+                    - paragraph: Open the ROI Calculator
+          - generic [ref=e710]:
+            - figure [ref=e713]
+            - generic [ref=e715]:
+              - heading "Request An Exec Demo" [level=5] [ref=e717]
+              - paragraph [ref=e719]:
+                - text: A detailed demonstration of our invisible authentication technology and how it impacts your business with an
+                - text: average ROI of 5:1.
+              - button "Request Demo" [ref=e721] [cursor=pointer]:
+                - paragraph [ref=e724]: Request Demo
+      - generic [ref=e726]:
+        - generic [ref=e728]:
+          - heading "Answers to Your Top Questions" [level=2] [ref=e731]
+          - paragraph [ref=e734]: From setup steps to feature details, our FAQs cover everything you need to know.
+        - generic [ref=e739]:
+          - generic [ref=e742] [cursor=pointer]:
+            - paragraph [ref=e745]: Do we need new printing hardware or special inks?
+            - paragraph [ref=e752]: No. Ennoventure's technology works with standard printing equipment, conventional inks (CMYK, Pantone, specialty formulations), and existing substrates. Authentication signals embed within regular artwork using normal production processes-offset, flexographic, gravure, screen printing, or digital. No manufacturing process changes, specialized materials, or equipment modifications are required, enabling rapid deployment and cost-effective scaling.
+            - figure "Background Gradient" [ref=e753]
+            - figure "Background Gradient" [ref=e754]
+          - generic [ref=e757] [cursor=pointer]:
+            - paragraph [ref=e760]: How does invisible authentication differ?
+            - paragraph [ref=e767]: It embeds undetectable security into artwork and verifies with any smartphone. No app, no friction so attackers have nothing to study.
+            - figure "Background Gradient" [ref=e768]
+            - figure "Background Gradient" [ref=e769]
+          - generic [ref=e772] [cursor=pointer]:
+            - paragraph [ref=e775]: How fast is product verification?
+            - paragraph [ref=e782]: Average scan-to-verdict time is 2.3 seconds under normal field conditions using standard smartphones. This includes camera image capture, cloud upload, signal extraction, error correction, ensemble AI analysis, and results delivery. Verification speed enables real-time authentication for consumer purchases, supply chain inspection, customs clearance, and retail point-of-sale scenarios without workflow disruption.
+            - figure "Background Gradient" [ref=e783]
+            - figure "Background Gradient" [ref=e784]
+          - generic [ref=e787] [cursor=pointer]:
+            - paragraph [ref=e790]: How does authentication integrate with existing brand protection programs?
+            - paragraph [ref=e797]: "Ennoventure's technology complements traditional brand protection by providing: (1) Covert authentication that counterfeiters cannot study or replicate, (2) Real-time verification accessible to all stakeholders without specialized training, (3) Market intelligence through authentication analytics revealing counterfeiting patterns and geographic hotspots, (4) Evidence generation for legal enforcement and customs seizures, and (5) Consumer engagement through brand-owned authentication experiences. Integration occurs through APIs, SDKs, or dashboard access depending on brand requirements."
+            - figure "Background Gradient" [ref=e798]
+            - figure "Background Gradient" [ref=e799]
+          - generic [ref=e802] [cursor=pointer]:
+            - paragraph [ref=e805]: How does this compare to QR codes, RFID, or blockchain-based authentication?
+            - paragraph [ref=e812]: QR codes and visible tags are easily copied, removed, or counterfeited. Criminals simply reproduce the codes on fake products. RFID requires expensive tag procurement and reader infrastructure while remaining vulnerable to cloning. Blockchain provides transaction immutability but doesn't authenticate physical products themselves, counterfeiters can create fake products with blockchain-verified serial numbers. Invisible authentication operates at the artwork layer with cryptographic signals counterfeiters cannot detect or reproduce, requires only smartphones for verification, and embeds authentication inseparably within product packaging at minimal incremental cost.
+            - figure "Background Gradient" [ref=e813]
+            - figure "Background Gradient" [ref=e814]
+    - contentinfo [ref=e818]:
+      - generic [ref=e819]:
+        - generic [ref=e820]:
+          - link [ref=e822] [cursor=pointer]:
+            - /url: ./
+          - generic [ref=e826]:
+            - heading "Navigation" [level=5] [ref=e828]
+            - generic [ref=e829]:
+              - paragraph [ref=e831]:
+                - link "Home" [ref=e832] [cursor=pointer]:
+                  - /url: ./
+              - paragraph [ref=e834]:
+                - link "Technology" [ref=e835] [cursor=pointer]:
+                  - /url: ./brand-protection-technology
+              - paragraph [ref=e837]:
+                - link "Solutions" [ref=e838] [cursor=pointer]:
+                  - /url: ./solutions
+              - paragraph [ref=e840]:
+                - link "Brand Protection Solutions" [ref=e841] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions
+              - paragraph [ref=e843]:
+                - link "Invisible Authentication" [ref=e844] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/invisible-authentication
+              - paragraph [ref=e846]:
+                - link "Online Brand Protection" [ref=e847] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/online-brand-protection
+              - paragraph [ref=e849]:
+                - link "Chirper" [ref=e850] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/chirper
+              - paragraph [ref=e852]:
+                - link "Anti Counterfeit Solutions" [ref=e853] [cursor=pointer]:
+                  - /url: ./anti-counterfeit-solution
+              - paragraph [ref=e855]:
+                - link "Product Authentication" [ref=e856] [cursor=pointer]:
+                  - /url: ./product-authentication
+          - generic [ref=e857]:
+            - heading "Resource Center" [level=5] [ref=e859]
+            - generic [ref=e860]:
+              - paragraph [ref=e862]:
+                - link "Resources" [ref=e863] [cursor=pointer]:
+                  - /url: ./resources
+              - paragraph [ref=e865]:
+                - link "Insightful" [ref=e866] [cursor=pointer]:
+                  - /url: ./resources/articles
+                - link "Articles" [ref=e867] [cursor=pointer]:
+                  - /url: ./resources/articles
+              - paragraph [ref=e869]:
+                - link "Case Studies" [ref=e870] [cursor=pointer]:
+                  - /url: ./resources/case-studies
+              - paragraph [ref=e872]:
+                - link "Guides" [ref=e873] [cursor=pointer]:
+                  - /url: ./resources/guides
+              - paragraph [ref=e875]:
+                - link "ROI Calculator" [ref=e876] [cursor=pointer]:
+                  - /url: ./resources/roi-calculator
+              - paragraph [ref=e878]:
+                - link "Glossary" [ref=e879] [cursor=pointer]:
+                  - /url: ./resources/glossary
+              - paragraph [ref=e881]:
+                - link "Compare" [ref=e882] [cursor=pointer]:
+                  - /url: ./resources/compare
+          - generic [ref=e883]:
+            - heading "Company" [level=5] [ref=e885]
+            - generic [ref=e886]:
+              - paragraph [ref=e888]:
+                - link "About Us" [ref=e889] [cursor=pointer]:
+                  - /url: ./about
+              - paragraph [ref=e891]:
+                - link "Partner" [ref=e892] [cursor=pointer]:
+                  - /url: ./about/partner
+              - paragraph [ref=e894]:
+                - link "Careers" [ref=e895] [cursor=pointer]:
+                  - /url: ./careers
+              - paragraph [ref=e897]:
+                - link "Privacy Policy" [ref=e898] [cursor=pointer]:
+                  - /url: ./policies/privacy-and-policy
+              - paragraph [ref=e900]:
+                - link "Terms & Conditions" [ref=e901] [cursor=pointer]:
+                  - /url: ./policies/terms-and-conditions
+              - button "Cookie Trigger" [ref=e903] [cursor=pointer]:
+                - generic [ref=e904]: Cookie Settings
+              - paragraph [ref=e906]:
+                - link "Contact Us" [ref=e907] [cursor=pointer]:
+                  - /url: ./contact
+          - generic [ref=e908]:
+            - link "LinkedIn" [ref=e910] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/ennoventure
+              - img [ref=e913]
+              - heading "LinkedIn" [level=6] [ref=e917]
+            - link "YouTube" [ref=e919] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZFp904MoHtaHX2i8jmoc5A
+              - img [ref=e922]
+              - heading "YouTube" [level=6] [ref=e926]
+            - link "Twitter" [ref=e928] [cursor=pointer]:
+              - /url: https://x.com/ennoventure
+              - img [ref=e931]
+              - heading "Twitter" [level=6] [ref=e934]
+            - link "Facebook" [ref=e936] [cursor=pointer]:
+              - /url: https://www.facebook.com/ennoventure/
+              - img [ref=e939]
+              - heading "Facebook" [level=6] [ref=e942]
+            - link "Instagram" [ref=e944] [cursor=pointer]:
+              - /url: https://www.instagram.com/ennoventure/
+              - img [ref=e947]
+              - heading "Instagram" [level=6] [ref=e952]
+        - paragraph [ref=e954]: All Copyrights Reserved @ Ennoventure 2025
+  - img [ref=e955]
+  - img [ref=e963]
+  - img [ref=e969]
+  - generic [ref=e978]:
+    - generic [ref=e979]:
+      - paragraph [ref=e980]: Cookie Settings
+      - paragraph [ref=e981]:
+        - text: We use cookies to personalize content, run ads, and analyze traffic.
+        - generic [ref=e982]:
+          - text: Read our
+          - link "Privacy Policy" [ref=e983] [cursor=pointer]:
+            - /url: /policies/privacy-and-policy
+          - text: .
+    - generic [ref=e984]:
+      - button "Reject all" [ref=e985] [cursor=pointer]
+      - button "Customize" [ref=e986] [cursor=pointer]
+      - button "Accept all" [ref=e987] [cursor=pointer]
+  - generic:  

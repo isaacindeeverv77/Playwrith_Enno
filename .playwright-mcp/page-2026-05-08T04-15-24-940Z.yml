@@ -1,0 +1,230 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e6]:
+      - generic [ref=e8]:
+        - link "Company Logo" [ref=e9] [cursor=pointer]:
+          - /url: ./
+        - navigation [ref=e11]:
+          - link "Home" [ref=e13] [cursor=pointer]:
+            - /url: ./
+            - paragraph [ref=e15]: Home
+          - link "Technology" [ref=e17] [cursor=pointer]:
+            - /url: ./brand-protection-technology
+            - paragraph [ref=e19]: Technology
+          - link "Solutions" [ref=e21] [cursor=pointer]:
+            - /url: ./solutions
+            - paragraph [ref=e23]: Solutions
+          - link "Resources" [ref=e25] [cursor=pointer]:
+            - /url: ./resources
+            - paragraph [ref=e27]: Resources
+          - link "About" [ref=e29] [cursor=pointer]:
+            - /url: ./about
+            - paragraph [ref=e31]: About
+          - button "Request Demo" [ref=e33] [cursor=pointer]:
+            - paragraph [ref=e36]: Request Demo
+    - generic [ref=e1456]:
+      - banner [ref=e1457]:
+        - generic [ref=e1464]:
+          - heading "Next-Generation Brand Protection Solutions" [level=1] [ref=e1468]
+          - heading "Leading enterprises across specialty chemicals, FMCG, automotive, pharmaceuticals, electronics, and luxury goods deploy Ennoventure's invisible authentication to solve industry-specific challenges while accessing universal verification capabilities." [level=5] [ref=e1470]
+      - main [ref=e1472]:
+        - generic [ref=e1477]:
+          - generic [ref=e1479]:
+            - paragraph [ref=e1480]: Industry Solutions Tailored
+            - paragraph [ref=e1481]: To Your Needs
+          - generic [ref=e1482]:
+            - generic [ref=e1483]:
+              - link "Require tamper-evident packaging surviving harsh chemical environments and complex regulatory frameworks Specialty Chemicals Three colorful building blocks stacked together, illustrated in a simple and playful design. Read More" [ref=e1485] [cursor=pointer]:
+                - /url: ./solutions/specialty-chemicals
+                - paragraph [ref=e1487]: Require tamper-evident packaging surviving harsh chemical environments and complex regulatory frameworks
+                - paragraph [ref=e1489]: Specialty Chemicals
+                - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e1492]
+                - link "Read More" [ref=e1504]:
+                  - paragraph [ref=e1507]: Read More
+              - link "Face serialization compliance across jurisdictions with patient safety as paramount concern Pharma & Healthcare Three colorful building blocks stacked together, illustrated in a simple and playful design. Read More" [ref=e1509] [cursor=pointer]:
+                - /url: ./solutions/pharmaceuticals-healthcare
+                - paragraph [ref=e1511]: Face serialization compliance across jurisdictions with patient safety as paramount concern
+                - paragraph [ref=e1513]: Pharma & Healthcare
+                - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e1516]
+                - link "Read More" [ref=e1528]:
+                  - paragraph [ref=e1531]: Read More
+              - link "Safeguarding Your Products, Reputation, and Revenue from Counterfeiting Brand Protection Solutions Three colorful building blocks stacked together, illustrated in a simple and playful design. Read More" [ref=e1533] [cursor=pointer]:
+                - /url: https://ennoventure.com/brand-protection-solutions
+                - paragraph [ref=e1535]: Safeguarding Your Products, Reputation, and Revenue from Counterfeiting
+                - paragraph [ref=e1537]: Brand Protection Solutions
+                - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e1540]
+                - link "Read More" [ref=e1552]:
+                  - paragraph [ref=e1555]: Read More
+            - generic [ref=e1556]:
+              - link "Need consumer-friendly verification driving loyalty while preventing gray market diversion FMCG & Consumer Goods Three colorful building blocks stacked together, illustrated in a simple and playful design. Read More" [ref=e1558] [cursor=pointer]:
+                - /url: ./solutions/fmcg-consumer-goods
+                - paragraph [ref=e1560]: Need consumer-friendly verification driving loyalty while preventing gray market diversion
+                - paragraph [ref=e1562]: FMCG & Consumer Goods
+                - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e1565]
+                - link "Read More" [ref=e1577]:
+                  - paragraph [ref=e1580]: Read More
+              - link "Must prevent warranty fraud while protecting against channel diversions Electronics & Consumer Durables Three colorful building blocks stacked together, illustrated in a simple and playful design. Read More" [ref=e1582] [cursor=pointer]:
+                - /url: ./solutions/electronics-consumer-durables
+                - paragraph [ref=e1584]: Must prevent warranty fraud while protecting against channel diversions
+                - paragraph [ref=e1586]: Electronics & Consumer Durables
+                - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e1589]
+                - link "Read More" [ref=e1601]:
+                  - paragraph [ref=e1604]: Read More
+            - generic [ref=e1605]:
+              - link "Demands parts provenance tracking integrated with warranty workflows Automative Aftermarket Three colorful building blocks stacked together, illustrated in a simple and playful design. Read More" [ref=e1607] [cursor=pointer]:
+                - /url: ./solutions/automotive-aftermarket
+                - paragraph [ref=e1609]: Demands parts provenance tracking integrated with warranty workflows
+                - paragraph [ref=e1611]: Automative Aftermarket
+                - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e1614]
+                - link "Read More" [ref=e1626]:
+                  - paragraph [ref=e1629]: Read More
+              - link "Require invisible tamper-proofing preserving aesthetic exclusivity while proving authenticity Luxury Goods & Apparel Three colorful building blocks stacked together, illustrated in a simple and playful design. Read More" [ref=e1631] [cursor=pointer]:
+                - /url: ./
+                - paragraph [ref=e1633]: Require invisible tamper-proofing preserving aesthetic exclusivity while proving authenticity
+                - paragraph [ref=e1635]: Luxury Goods & Apparel
+                - img "Three colorful building blocks stacked together, illustrated in a simple and playful design." [ref=e1638]
+                - link "Read More" [ref=e1650]:
+                  - paragraph [ref=e1653]: Read More
+      - generic [ref=e1657]:
+        - generic [ref=e1659]:
+          - heading "Answers to your top questions" [level=2] [ref=e1661]:
+            - text: Answers to your
+            - text: top questions
+          - paragraph [ref=e1663]:
+            - text: From setup steps to feature details,
+            - text: our FAQs cover everything you need to know.
+        - generic [ref=e1666]:
+          - generic [ref=e1669] [cursor=pointer]:
+            - paragraph [ref=e1672]: Will my packaging line change?
+            - paragraph [ref=e1679]: No. Smart packaging embedding occurs during pre-production artwork preparation—before printing begins. Your existing presses, inks, and workflows remain unchanged. Standard production processes print packaging with embedded authentication invisibly incorporated. No equipment modifications, no line stops, no operational disruption.
+            - figure "Background Gradient" [ref=e1690]
+          - generic [ref=e1693] [cursor=pointer]:
+            - paragraph [ref=e1696]: What substrates are supported?
+            - paragraph [ref=e1703]: "Nearly all: coated and uncoated papers, cardboard, plastic films (PET, PP, PE, PVC), metalized films, pressure-sensitive labels, shrink sleeves, corrugated packaging, and laminates. Our 20 TB+ production database covers 200+ substrate-printing combinations. If your current packaging materials work, smart packaging does too, we calibrate encoding for your specific substrate."
+            - figure "Background Gradient" [ref=e1714]
+          - generic [ref=e1717] [cursor=pointer]:
+            - paragraph [ref=e1720]: Can packaging be updated or redesigned while maintaining authentication?
+            - paragraph [ref=e1727]: Yes. Authentication encoding is independent of visual design elements. Packaging can be redesigned completely with new artwork, colors, layout, while maintaining identical underlying authentication capability. This flexibility enables marketing refresh, seasonal variants, or regional customization without re-engineering authentication.
+            - figure "Background Gradient" [ref=e1738]
+    - contentinfo [ref=e818]:
+      - generic [ref=e819]:
+        - generic [ref=e820]:
+          - link [ref=e822] [cursor=pointer]:
+            - /url: ./
+          - generic [ref=e826]:
+            - heading "Navigation" [level=5] [ref=e828]
+            - generic [ref=e829]:
+              - paragraph [ref=e831]:
+                - link "Home" [ref=e832] [cursor=pointer]:
+                  - /url: ./
+              - paragraph [ref=e834]:
+                - link "Technology" [ref=e835] [cursor=pointer]:
+                  - /url: ./brand-protection-technology
+              - paragraph [ref=e837]:
+                - link "Solutions" [ref=e838] [cursor=pointer]:
+                  - /url: ./solutions
+              - paragraph [ref=e840]:
+                - link "Brand Protection Solutions" [ref=e841] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions
+              - paragraph [ref=e843]:
+                - link "Invisible Authentication" [ref=e844] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/invisible-authentication
+              - paragraph [ref=e846]:
+                - link "Online Brand Protection" [ref=e847] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/online-brand-protection
+              - paragraph [ref=e849]:
+                - link "Chirper" [ref=e850] [cursor=pointer]:
+                  - /url: ./brand-protection-solutions/chirper
+              - paragraph [ref=e852]:
+                - link "Anti Counterfeit Solutions" [ref=e853] [cursor=pointer]:
+                  - /url: ./anti-counterfeit-solution
+              - paragraph [ref=e855]:
+                - link "Product Authentication" [ref=e856] [cursor=pointer]:
+                  - /url: ./product-authentication
+          - generic [ref=e857]:
+            - heading "Resource Center" [level=5] [ref=e859]
+            - generic [ref=e860]:
+              - paragraph [ref=e862]:
+                - link "Resources" [ref=e863] [cursor=pointer]:
+                  - /url: ./resources
+              - paragraph [ref=e865]:
+                - link "Insightful" [ref=e866] [cursor=pointer]:
+                  - /url: ./resources/articles
+                - link "Articles" [ref=e867] [cursor=pointer]:
+                  - /url: ./resources/articles
+              - paragraph [ref=e869]:
+                - link "Case Studies" [ref=e870] [cursor=pointer]:
+                  - /url: ./resources/case-studies
+              - paragraph [ref=e872]:
+                - link "Guides" [ref=e873] [cursor=pointer]:
+                  - /url: ./resources/guides
+              - paragraph [ref=e875]:
+                - link "ROI Calculator" [ref=e876] [cursor=pointer]:
+                  - /url: ./resources/roi-calculator
+              - paragraph [ref=e878]:
+                - link "Glossary" [ref=e879] [cursor=pointer]:
+                  - /url: ./resources/glossary
+              - paragraph [ref=e881]:
+                - link "Compare" [ref=e882] [cursor=pointer]:
+                  - /url: ./resources/compare
+          - generic [ref=e883]:
+            - heading "Company" [level=5] [ref=e885]
+            - generic [ref=e886]:
+              - paragraph [ref=e888]:
+                - link "About Us" [ref=e889] [cursor=pointer]:
+                  - /url: ./about
+              - paragraph [ref=e891]:
+                - link "Partner" [ref=e892] [cursor=pointer]:
+                  - /url: ./about/partner
+              - paragraph [ref=e894]:
+                - link "Careers" [ref=e895] [cursor=pointer]:
+                  - /url: ./careers
+              - paragraph [ref=e897]:
+                - link "Privacy Policy" [ref=e898] [cursor=pointer]:
+                  - /url: ./policies/privacy-and-policy
+              - paragraph [ref=e900]:
+                - link "Terms & Conditions" [ref=e901] [cursor=pointer]:
+                  - /url: ./policies/terms-and-conditions
+              - button "Cookie Trigger" [ref=e903] [cursor=pointer]:
+                - generic [ref=e904]: Cookie Settings
+              - paragraph [ref=e906]:
+                - link "Contact Us" [ref=e907] [cursor=pointer]:
+                  - /url: ./contact
+          - generic [ref=e908]:
+            - link "LinkedIn" [ref=e910] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/ennoventure
+              - img [ref=e913]
+              - heading "LinkedIn" [level=6] [ref=e917]
+            - link "YouTube" [ref=e919] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCZFp904MoHtaHX2i8jmoc5A
+              - img [ref=e922]
+              - heading "YouTube" [level=6] [ref=e926]
+            - link "Twitter" [ref=e928] [cursor=pointer]:
+              - /url: https://x.com/ennoventure
+              - img [ref=e931]
+              - heading "Twitter" [level=6] [ref=e934]
+            - link "Facebook" [ref=e936] [cursor=pointer]:
+              - /url: https://www.facebook.com/ennoventure/
+              - img [ref=e939]
+              - heading "Facebook" [level=6] [ref=e942]
+            - link "Instagram" [ref=e944] [cursor=pointer]:
+              - /url: https://www.instagram.com/ennoventure/
+              - img [ref=e947]
+              - heading "Instagram" [level=6] [ref=e952]
+        - paragraph [ref=e954]: All Copyrights Reserved @ Ennoventure 2025
+  - generic [ref=e978]:
+    - generic [ref=e979]:
+      - paragraph [ref=e980]: Cookie Settings
+      - paragraph [ref=e981]:
+        - text: We use cookies to personalize content, run ads, and analyze traffic.
+        - generic [ref=e982]:
+          - text: Read our
+          - link "Privacy Policy" [ref=e983] [cursor=pointer]:
+            - /url: /policies/privacy-and-policy
+          - text: .
+    - generic [ref=e984]:
+      - button "Reject all" [ref=e985] [cursor=pointer]
+      - button "Customize" [ref=e986] [cursor=pointer]
+      - button "Accept all" [ref=e987] [cursor=pointer]
+  - generic:  
+  - generic: Comprehensive Brand Protection Solutions | Ennoventure
